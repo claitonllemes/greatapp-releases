@@ -6,7 +6,7 @@
   <img alt="Apple Silicon" src="https://img.shields.io/badge/Apple%20Silicon-M1%20ou%20mais%20recente-black">
 </p>
 
-O aplicativo de desktop da [GreatPages](https://www.greatpages.com.br): o painel e o editor em abas, com a sua sessão salva entre uma abertura e outra.
+O aplicativo de desktop da [GreatPages](https://app.greatpages.com.br/a/claitonllemes): o painel e o editor em abas, com a sua sessão salva entre uma abertura e outra.
 
 ## Baixar
 
@@ -61,4 +61,4 @@ Arraste o **GreatPages** de **Aplicativos** para o Lixo. Para apagar também os 
 
 Aqui ficam apenas os arquivos de cada versão (instalador, pacote de atualização e `latest.json`, lido pelo app para saber se há atualização). Não há código-fonte neste repositório.
 
-Site: [www.greatpages.com.br](https://www.greatpages.com.br)
+Site: [www.greatpages.com.br](https://app.greatpages.com.br/a/claitonllemes)
